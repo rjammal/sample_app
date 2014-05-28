@@ -24,6 +24,7 @@ group :test do
   # Windows Guard helper gems
   gem 'rb-notifu', '0.0.4'
   gem 'wdm', '0.1.0'
+  gem 'factory_girl_rails', '4.2.1'
 end
 
 # Use SCSS for stylesheets
